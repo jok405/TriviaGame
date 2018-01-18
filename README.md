@@ -12,7 +12,7 @@ Checkout out the deployed app [here](https://jok405.github.io/TriviaGame/)!
 ![Action Page](/assets/screenshots/action.png)
 
 ### Time is up
-![Grade Page](/assets/screenshots/time_Up.png)
+![Times Up](/assets/screenshots/time_Up.png)
 
-### If you finish before time is up, click the Done button
+### Results
 ![Results Page](/assets/screenshots/loss.png)
